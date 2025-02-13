@@ -35,9 +35,10 @@ OK
 ---
 
 ## Project Structure
-GitProject2/ │── sorting_integers.py # Main sorting function 
-│── test_sorting_integers.py # Unit tests for sorting function 
-│── README.md # Documentation
+GitProject2/ 
+- sorting_integers.py # Main sorting function 
+- test_sorting_integers.py # Unit tests for sorting function 
+- README.md # Documentation
 
 ---
 
